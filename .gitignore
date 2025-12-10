@@ -1,0 +1,7 @@
+__pycache__
+dataset/
+env/
+msrvtt_fine_tuned_captioning/
+msrvtt_fine_tuned_captioning/checkpoints/
+msrvtt_fine_tuned_captioning/config.json
+msrvtt_fine_tuned_captioning/evaluation_results.json

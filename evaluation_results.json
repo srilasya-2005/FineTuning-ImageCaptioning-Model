@@ -1,0 +1,259 @@
+{
+  "metrics": {
+    "bleu": 0.0,
+    "rouge_l": 0.0,
+    "num_samples": 50
+  },
+  "details": [
+    {
+      "video_id": "video8263",
+      "reference": "a car is being driven",
+      "prediction": "video content video content video364646868191919191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video9969",
+      "reference": "two friends talking while red one holding a cat and pink one is worried about something",
+      "prediction": "video content video content video364646468681919191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video8190",
+      "reference": "a man wearing jeans a black shirt and sunglasses walks down a shallow hill that is covered with rough grass",
+      "prediction": "video content video content video364646468141919191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video8360",
+      "reference": "there is a woman is applying makeup by herself",
+      "prediction": "video content video content video364646468686060606060606060606060606060606060606060606060606060606060606060606060606060"
+    },
+    {
+      "video_id": "video9816",
+      "reference": "a blonde women is talking and pulling napkins from a dispenser",
+      "prediction": "video content video content video6060686868191919191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video7558",
+      "reference": "a girl makes music using a cup on stage",
+      "prediction": "video content video content video6219191962606060606060606060606060606060606060606060606060606060606060606060606060606060"
+    },
+    {
+      "video_id": "video8400",
+      "reference": "3 people talking in chairs",
+      "prediction": "video content video content video6219191919196260606060606060606060606060606060606060606060606060606060606060606060606060"
+    },
+    {
+      "video_id": "video9403",
+      "reference": "sleeping beauty holds hands with prince charming in the woods",
+      "prediction": "video content video content video364646468686060606060606060606060606060606060606060606060606060606060606060606060606060"
+    },
+    {
+      "video_id": "video7800",
+      "reference": "a woman in a low cut blue shirt wears a large necklace and large earrings made from diamonds while walking down a street",
+      "prediction": "video content video content video364646468681419191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video7499",
+      "reference": "a band is performing a concert",
+      "prediction": "video content video content video364646468681919191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video7828",
+      "reference": "a man with a microphone and a laptop is talking on stage",
+      "prediction": "video content video content video364646468681419191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video9014",
+      "reference": "a cartoon helicopter carries fruit to trucks",
+      "prediction": "video content video content video364646468681919191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video8774",
+      "reference": "a man filling a toy with cotton",
+      "prediction": "video content video content video364646868606060606060606060606060606060606060606060606060606060606060606060606060606060"
+    },
+    {
+      "video_id": "video9502",
+      "reference": "a man giving a guitar tutorial",
+      "prediction": "video content video content video364646419191919191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video7449",
+      "reference": "there is a suit man in front of a globe",
+      "prediction": "video content video content video364646468681919191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video9759",
+      "reference": "a clip of someone taking toys out of a gift set",
+      "prediction": "video content video content video3 video36464686860606060606060606060606060606060606060606060606060606060606060606060606060"
+    },
+    {
+      "video_id": "video7344",
+      "reference": "a coach speaks about his students",
+      "prediction": "video content video content video6260686868191919191962606860606060606060606060606060606060606060606060606060606060606060"
+    },
+    {
+      "video_id": "video9790",
+      "reference": "a cartoon man sings a song",
+      "prediction": "video content video content video364646868191919191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video9133",
+      "reference": "a cartoon character flies",
+      "prediction": "video content video content video6060606060606060606060606060606060606060606060606060606060606060606060606060606060606060"
+    },
+    {
+      "video_id": "video7679",
+      "reference": "a crowd cheers for the contestants on family feud",
+      "prediction": "video content video content video364646468681919191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video8291",
+      "reference": "a person is explaining something",
+      "prediction": "video content video content video6060686819191919191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video8539",
+      "reference": "in front of a blackboard an person is seated and talking he is seated in front of the globe and talking",
+      "prediction": "video content video content video364646868191919191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video8836",
+      "reference": "a documentary about a culture lifestyle",
+      "prediction": "video content video content video364646468206060606060606060606060606060606060606060606060606060606060606060606060606060"
+    },
+    {
+      "video_id": "video7813",
+      "reference": "a boy is singing and dancing",
+      "prediction": "video content video content video364646468691919191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video9782",
+      "reference": "a man narrates the story of a woman s medical condition",
+      "prediction": "video content video content video364646868191919191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video7171",
+      "reference": "brittiney spears holds a press conference tells the reporters to (insert explicit) themselves",
+      "prediction": "video content video content video364646468141919191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video9175",
+      "reference": "a man with white dressing is having sex with a woman",
+      "prediction": "video content video content video364646468681419191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video8250",
+      "reference": "a flooring contractor showing how to install hardwood flooring",
+      "prediction": "video content video content video6060686819191919191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video7109",
+      "reference": "3d animated sequence with women dancing",
+      "prediction": "video content video content video364646868191919191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video7321",
+      "reference": "a person fashions a culinary treat",
+      "prediction": "video content video content video6060606060606060606060606060606060606060606060606060606060606060606060606060606060606060"
+    },
+    {
+      "video_id": "video9069",
+      "reference": "a lady is receiving an award",
+      "prediction": "video content video content video364646868686060606060606060606060606060606060606060606060606060606060606060606060606060"
+    },
+    {
+      "video_id": "video7983",
+      "reference": "a acura integra that is for sale being shown",
+      "prediction": "video content video content video364646419191919191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video8527",
+      "reference": "a boy is playing a guitar",
+      "prediction": "video content video content video6060606060606060606060606060606060606060606060606060606060606060606060606060606060606060"
+    },
+    {
+      "video_id": "video7883",
+      "reference": "a man wearing blue shirt and eyeglasses sits at a table with globe and talks",
+      "prediction": "video content video content video364646419191919191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video7186",
+      "reference": "a man hugs another man in outer space",
+      "prediction": "video content video content video364646419191919191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video7608",
+      "reference": "a man is talking with grey color dress",
+      "prediction": "video content video content video364646468681419191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video8520",
+      "reference": "a dish was being prepared",
+      "prediction": "video content video content video364646868606060606060606060606060606060606060606060606060606060606060606060606060606060"
+    },
+    {
+      "video_id": "video7576",
+      "reference": "a clip taken from a horror movie with two men seeing ghosts",
+      "prediction": "video content video content video6060606060606060606060606060606060606060606060606060606060606060606060606060606060606060"
+    },
+    {
+      "video_id": "video8842",
+      "reference": "a game is being played",
+      "prediction": "video content video content video364646468681919191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video7619",
+      "reference": "a clip showcasing the president giving a speech",
+      "prediction": "video content video content video364646468141919191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video7634",
+      "reference": "a guy explains a formula",
+      "prediction": "video content video content video364646414191919191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video8350",
+      "reference": "a 2 legged boxer dog running and playing",
+      "prediction": "video content video content video6064646868191919191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video9268",
+      "reference": "a women cooks mushrooms tomatoes and peppers in a skillet pan",
+      "prediction": "video content video content video364646468681419191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video9828",
+      "reference": "a man is carrying a goat",
+      "prediction": "video content video content video6219191919626060606060606060606060606060606060606060606060606060606060606060606060606060"
+    },
+    {
+      "video_id": "video8032",
+      "reference": "number 15 is displayed two men are standing side by side a man wearing a hen s dress is posing",
+      "prediction": "video content video content video6060606060606060606060606060606060606060606060606060606060606060606060606060606060606060"
+    },
+    {
+      "video_id": "video9438",
+      "reference": "two race car drivers wearing white cheer after they win a race",
+      "prediction": "video content video content video6064646419191919191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video8256",
+      "reference": "a computer game character is running",
+      "prediction": "video content video content video364646869191919191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video9924",
+      "reference": "a long haired man drives his car",
+      "prediction": "video content video content video364646468681419191919191919191919191919191919191919191919191919191919191919191919191919"
+    },
+    {
+      "video_id": "video7140",
+      "reference": "a food item is preparing with a floor powder",
+      "prediction": "video content video content video364646468686060606060606060606060606060606060606060606060606060606060606060606060606060"
+    },
+    {
+      "video_id": "video7229",
+      "reference": "a woman advertising a youtube channel",
+      "prediction": "video content video content video6060606060606060606060606060606060606060606060606060606060606060606060606060606060606060"
+    }
+  ]
+}
